@@ -2,7 +2,7 @@
 pip install -r requirements.txt
 
 *STUDY MATERIALS
-
+https://www.consob.it/web/area-pubblica/patti-parasociali
 
 *FROM HTML TO CSV
 from "resources/links.txt", fill "resources/html_files" and "resources/loyalty_shares"
@@ -13,3 +13,5 @@ py main.py -html_to_csv
 py main.py -csv_to_db
 #create to "results/database.csv"
 
+*EXTRACT SHAREHOLDERS' AGREEMENTS IN DISTINCT FILES
+py main.py -sha
