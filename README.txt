@@ -26,5 +26,4 @@ py main.py -sha
 *SEE RESULTS
 see "results/database.csv" and "results/sha/"
 
-*STUDY MATERIALS - OPTIONAL
-https://www.consob.it/web/consob-and-its-activities/regulation
+
