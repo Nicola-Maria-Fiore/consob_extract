@@ -8,7 +8,7 @@ https://www.consob.it/web/area-pubblica/maggiorazione-diritto-di-voto-e-azioni-a
 https://www.consob.it/web/area-pubblica/patti-parasociali
 
 *DOWNLOAD DATA
-from "resources/downloand_links.txt", fill: 1) "resources/html_files/", 2) "resources/loyalty_shares/", 3) "resources/sha/"
+from "resources/download_links.txt", fill: 1) "resources/html_files/", 2) "resources/loyalty_shares/", 3) "resources/sha/"
 
 *FROM HTML_FILES TO CSV_FILES
 py main.py -html_to_csv
