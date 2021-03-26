@@ -1,0 +1,8 @@
+*AZIONARIATO - CAPITALE SOCIALE - ORGANI SOCIALI - PARTECIPAZIONI RILEVANTI
+https://www.consob.it/web/area-pubblica/quotate?viewId=export_quotate
+
+*VOTO MAGGIORATO - VOTO PLURIMO
+https://www.consob.it/web/area-pubblica/quotate/main/emittenti/societa_quotate/voto_maggiorato_plurimo_lnk.htm?nav=true
+
+*PATTI PARASOCIALI
+https://www.consob.it/web/area-pubblica/quotate?viewId=estratto_patti_attuali
